@@ -1,6 +1,4 @@
-package javafiles;
-
-public class hello {
+public class prime{
     public static void main(String[] args) {
         //to print even numbers till 30
         int i;
